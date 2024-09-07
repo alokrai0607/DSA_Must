@@ -13,4 +13,5 @@ def isPrime(n):
     else:
         print(n, "Is Not Prime")
 
-isPrime(13)
+isPrime(25)
+isPrime(17)
