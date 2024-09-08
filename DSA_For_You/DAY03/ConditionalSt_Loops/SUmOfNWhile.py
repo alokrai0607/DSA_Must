@@ -7,3 +7,5 @@ def sumOfN(end):
     return (f'Print of all Numbers till ',end,"is :",container)
 
 print(sumOfN(5))
+
+#We can use break and continue in this program .
