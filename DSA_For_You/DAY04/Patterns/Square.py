@@ -7,5 +7,8 @@ def SquarePattern(n):
         print()
 
         
+SquarePattern(15)
+SquarePattern(5)
+SquarePattern(5)
 SquarePattern(5)
 
