@@ -4,3 +4,5 @@ def printPat(n):
             print(j,end=" ")
         print()
 
+printPat(10)
+
