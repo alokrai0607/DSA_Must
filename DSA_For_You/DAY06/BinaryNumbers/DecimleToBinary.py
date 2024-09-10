@@ -11,4 +11,4 @@ def dectobinary(decNum: int):
 
     return ans
 
-print(dectobinary(25))  
+print(dectobinary(42))  
