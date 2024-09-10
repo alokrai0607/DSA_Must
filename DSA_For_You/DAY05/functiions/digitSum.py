@@ -8,4 +8,6 @@ def digitSum(num):
 
 print(round(digitSum(12345)))
 
+print(round(digitSum(12345555)))
+
 
